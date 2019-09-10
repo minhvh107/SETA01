@@ -1,0 +1,26 @@
+{
+  "name": "bai01_02",
+  "version": "1.0.0",
+  "description": "bai 01 va 02",
+  "main": "index.js",
+  "scripts": {
+    "dev": "mocha --require @babel/register bai.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhvh107/SETA01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhvh107/SETA01/issues"
+  },
+  "homepage": "https://github.com/minhvh107/SETA01#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "@babel/preset-typescript": "^7.6.0",
+    "@babel/register": "^7.6.0",
+    "mocha": "^6.2.0"
+  }
+}

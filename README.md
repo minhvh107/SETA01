@@ -1,2 +1,5 @@
 # SETA01
-Bài 01 - 02
+Question: 01 - 02
+
+Start with: npm run dev
+
